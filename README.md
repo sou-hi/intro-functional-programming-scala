@@ -1,2 +1,2 @@
-# inttro-functional-programming-scala
+# intro-functional-programming-scala
 - A minimal scala project
